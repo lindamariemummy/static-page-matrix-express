@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+  "name": "demo1",
+  "description": "First Express app",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.x"
+  },
+  "devDependencies": {
+    "hbs": "^2.7.0"
+  }
+}
